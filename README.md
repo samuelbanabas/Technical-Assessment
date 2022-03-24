@@ -1,2 +1,2 @@
 # Technical Assessment
- Array project 
+ Contains two projects; Array and Country Code
