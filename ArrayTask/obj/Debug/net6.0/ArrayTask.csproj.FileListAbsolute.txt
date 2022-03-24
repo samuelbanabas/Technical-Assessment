@@ -1,0 +1,15 @@
+C:\Users\Samuel Banabas\source\repos\ArrayTask\bin\Debug\net6.0\ArrayTask.exe
+C:\Users\Samuel Banabas\source\repos\ArrayTask\bin\Debug\net6.0\ArrayTask.deps.json
+C:\Users\Samuel Banabas\source\repos\ArrayTask\bin\Debug\net6.0\ArrayTask.runtimeconfig.json
+C:\Users\Samuel Banabas\source\repos\ArrayTask\bin\Debug\net6.0\ArrayTask.dll
+C:\Users\Samuel Banabas\source\repos\ArrayTask\bin\Debug\net6.0\ref\ArrayTask.dll
+C:\Users\Samuel Banabas\source\repos\ArrayTask\bin\Debug\net6.0\ArrayTask.pdb
+C:\Users\Samuel Banabas\source\repos\ArrayTask\obj\Debug\net6.0\ArrayTask.csproj.AssemblyReference.cache
+C:\Users\Samuel Banabas\source\repos\ArrayTask\obj\Debug\net6.0\ArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Banabas\source\repos\ArrayTask\obj\Debug\net6.0\ArrayTask.AssemblyInfoInputs.cache
+C:\Users\Samuel Banabas\source\repos\ArrayTask\obj\Debug\net6.0\ArrayTask.AssemblyInfo.cs
+C:\Users\Samuel Banabas\source\repos\ArrayTask\obj\Debug\net6.0\ArrayTask.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Banabas\source\repos\ArrayTask\obj\Debug\net6.0\ArrayTask.dll
+C:\Users\Samuel Banabas\source\repos\ArrayTask\obj\Debug\net6.0\ref\ArrayTask.dll
+C:\Users\Samuel Banabas\source\repos\ArrayTask\obj\Debug\net6.0\ArrayTask.pdb
+C:\Users\Samuel Banabas\source\repos\ArrayTask\obj\Debug\net6.0\ArrayTask.genruntimeconfig.cache
